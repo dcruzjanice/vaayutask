@@ -1,7 +1,3 @@
-x = 10
-y = 14
-z = 12
-
 x = float(input("Enter first number: "))
 y = float(input("Enter second number: "))
 z = float(input("Enter third number: "))
