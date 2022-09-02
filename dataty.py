@@ -33,14 +33,4 @@ print(type(j))
 k = True
 print(type(k))
 
-l = b"Hi"
-print(type(l))
 
-m = bytearray(5)
-print(type(m))
-
-n = memoryview(bytes(5))
-print(type(n))
-
-o = None
-print(type(o))
