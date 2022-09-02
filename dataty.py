@@ -27,9 +27,6 @@ print(type(h))
 i = {"apple", "banana", "cherry"}
 print(type(i))
 
-j= frozenset({"apple", "banana", "cherry"})
-print(type(j))
-
 k = True
 print(type(k))
 
